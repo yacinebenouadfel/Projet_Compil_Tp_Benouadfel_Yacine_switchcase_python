@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Projet_Compil_Tp_Benouadfel_Yacine_switchcase_python:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Projet_Compil_Tp_Benouadfel_Yacine_switchcase_python_jar</output-path>
+    <root id="archive" name="Projet_Compil_Tp_Benouadfel_Yacine_switchcase_python.jar">
+      <element id="module-output" name="Projet_Compil_Tp_Benouadfel_Yacine_switchcase_python" />
+    </root>
+  </artifact>
+</component>
